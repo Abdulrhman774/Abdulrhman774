@@ -66,29 +66,20 @@
 
 ### 🔗 Links
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <a href="mailto:abdulrhmanazmy980@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" style="border-radius: 50%; width: 60px; height: 60px; margin: 5px;" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" style="border-radius: 50%; width: 60px; height: 60px; margin: 5px;" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Abdulrhman774" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=" style="border-radius: 50%; width: 60px; height: 60px; margin: 5px;" alt="GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:abdulrhmanazmy980@gmail.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="60" height="60" alt="Gmail" style="margin: 0 15px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="60" height="60" alt="LinkedIn" style="margin: 0 15px;" />
+  </a>
+  <a href="https://github.com/Abdulrhman774" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="60" height="60" alt="GitHub" style="margin: 0 15px;" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
