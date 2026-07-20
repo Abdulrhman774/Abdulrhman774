@@ -68,13 +68,13 @@
 
 <p align="center">
   <a href="mailto:abdulrhmanazmy980@gmail.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="60" height="60" alt="Gmail" style="margin: 0 30px;" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="60" height="60" alt="Gmail" style="margin: 0 60px;" />
   </a>
   <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="60" height="60" alt="LinkedIn" style="margin: 0 30px;" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="60" height="60" alt="LinkedIn" style="margin: 0 60px;" />
   </a>
   <a href="https://github.com/Abdulrhman774" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="60" height="60" alt="GitHub" style="margin: 0 30px;" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="60" height="60" alt="GitHub" style="margin: 0 60px;" />
   </a>
 </p>
 
