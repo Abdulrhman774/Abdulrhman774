@@ -56,12 +56,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdulrhman774&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrhman774&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrhman774&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -69,20 +64,18 @@
 
 ---
 
-### 📬 Let's Connect
+### 🌟 Let's Connect & Collaborate
 
 <p align="center">
+  <i>Open to discussing backend architecture, security best practices, or just geeking out over code!</i>
+  <br><br>
   <a href="mailto:abdulrhmanazmy980@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C4FF" alt="Email">
+    <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00C4FF" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C4FF" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Abdulrhman774">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C4FF" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4FF&height=100&section=footer" alt="footer wave"/>
 </p>
