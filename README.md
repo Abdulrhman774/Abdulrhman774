@@ -67,19 +67,18 @@
 ### 🔗 Links
 
 <p align="center">
-  <a href="mailto:abdulrhmanazmy980@gmail.com?subject=Portfolio%20Inquiry&body=Hi%20Abdulrhman,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="70" alt="Gmail"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulrhmanazmy980@gmail.com&su=Portfolio%20Inquiry&body=Hi%20Abdulrhman," target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="70" alt="Gmail">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="70" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="70" alt="LinkedIn">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/Abdulrhman774">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="70" alt="GitHub"/>
+  <a href="https://github.com/Abdulrhman774" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="70" alt="GitHub">
   </a>
 </p>
-
 ---
 
 <p align="center">
