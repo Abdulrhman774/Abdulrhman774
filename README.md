@@ -64,13 +64,13 @@
 
 ---
 
-### 🌟 Let's Connect & Collaborate
+### 🌟 Let's Connect
 
 <p align="center">
-  <i>Open to discussing backend architecture, security best practices, or just geeking out over code!</i>
+  <i>Open to discussing backend architecture, security, or potential collaboration opportunities.</i>
   <br><br>
   <a href="mailto:abdulrhmanazmy980@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00C4FF" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00C4FF" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
@@ -78,4 +78,10 @@
   <a href="https://github.com/Abdulrhman774">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/thaisramos13/thaisramos13/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
