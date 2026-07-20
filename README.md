@@ -67,14 +67,20 @@
 ### 🔗 Links
 
 <p align="center">
-  <a href="mailto:abdulrhmanazmy980@gmail.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="70" height="70" alt="Gmail" style="margin: 0 60px;" />
+  <a href="mailto:abdulrhmanazmy980@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="70">
   </a>
-  <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="70" height="70" alt="LinkedIn" style="margin: 0 60px;" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&t=1" width="70">
   </a>
-  <a href="https://github.com/Abdulrhman774" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="70" height="70" alt="GitHub" style="margin: 0 60px;" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/Abdulrhman774">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&t=1" width="70">
   </a>
 </p>
 
