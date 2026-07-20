@@ -28,22 +28,28 @@
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <h4>📦 Shipping Management System</h4>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="In Progress"/>
-      <br/><br/>
-      ASP.NET Core • EF Core • SQL Server • JWT Auth
+      <h3 align="center" style="font-family: 'Fira Code', monospace; color: #00C4FF;">📦 Shipping System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" alt="In Progress"/>
+      </div>
+      <br/>
+      <div align="center">ASP.NET Core • EF Core • SQL Server • JWT</div>
     </td>
     <td width="33%" valign="top">
-      <h4>🚗 DVLD System</h4>
-      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Completed"/>
-      <br/><br/>
-      C# • WinForms • ADO.NET • 3-Tier Architecture
+      <h3 align="center" style="font-family: 'Fira Code', monospace; color: #00C4FF;">🚗 DVLD System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Completed"/>
+      </div>
+      <br/>
+      <div align="center">C# • WinForms • ADO.NET • 3-Tier</div>
     </td>
     <td width="33%" valign="top">
-      <h4>🏦 Bank Management System</h4>
-      <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Completed"/>
-      <br/><br/>
-      C++ • OOP • File-based Storage
+      <h3 align="center" style="font-family: 'Fira Code', monospace; color: #00C4FF;">🏦 Bank System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" alt="Completed"/>
+      </div>
+      <br/>
+      <div align="center">C++ • OOP • File Storage</div>
     </td>
   </tr>
 </table>
@@ -59,12 +65,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrhman774&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Abdulrhman774/Abdulrhman774/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
