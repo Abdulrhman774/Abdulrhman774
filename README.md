@@ -67,7 +67,7 @@
 ### 🔗 Links
 
 <p align="center">
-  <a href="mailto:abdulrhmanazmy980@gmail.com?subject=Hello%20Abdulrhman">
+  <a href="mailto:abdulrhmanazmy980@gmail.com?subject=Portfolio%20Inquiry&body=Hi%20Abdulrhman,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0A">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&t=1" width="70" alt="Gmail"/>
   </a>&nbsp;&nbsp;&nbsp;
 
