@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhman+Azmy;Computer+Engineering+Student;.NET+Backend+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhman+Azmy;.NET+Backend+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Computer+Engineering+Student" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulrhman774&label=Profile%20Views&color=00C4FF&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Security-0e75b6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-100%25%20Backend%20Development-00C4FF?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  🎓 Computer Engineering Student @ New Mansoura University &nbsp;|&nbsp; 🔐 Specializing in Cybersecurity &nbsp;|&nbsp; 💻 Building with .NET
+  💻 .NET Backend Developer &nbsp;|&nbsp; 🎓 Computer Engineering Student @ New Mansoura University
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ### ⚡ Tech Stack — What I Use Daily
 
 <p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dotnet&animation=spin&svgfill=512BD4" alt=".NET / ASP.NET Core">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&animation=spin&svgfill=239120" alt="C#">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dotnet&animation=spin&svgfill=512BD4" alt=".NET">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=microsoft-sql-server&animation=spin&svgfill=CC2927" alt="SQL Server">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nuget&animation=spin&svgfill=512BD4" alt="EF Core">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=00599C" alt="C++">
@@ -30,33 +30,27 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&animation=spin&svgfill=FFFFFF" alt="GitHub">
 </p>
 
----
-
-### 🏗️ Architecture & Design Patterns
-
 <p align="center">
-  <img src="https://img.shields.io/badge/N--Tier%20Architecture-00C4FF?style=for-the-badge&logo=layers&logoColor=black" alt="N-Tier">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00C4FF?style=for-the-badge&logo=layers&logoColor=black" alt="Clean Architecture">
-  <img src="https://img.shields.io/badge/Repository%20Pattern-00C4FF?style=for-the-badge&logo=layers&logoColor=black" alt="Repository Pattern">
-  <br/>
-  <img src="https://img.shields.io/badge/Dependency%20Injection-0e75b6?style=for-the-badge&logo=layers&logoColor=white" alt="DI">
-  <img src="https://img.shields.io/badge/Result%20Pattern-0e75b6?style=for-the-badge&logo=layers&logoColor=white" alt="Result Pattern">
-  <img src="https://img.shields.io/badge/FluentValidation-0e75b6?style=for-the-badge&logo=layers&logoColor=white" alt="FluentValidation">
+  <sub>Backend focus: <b>ASP.NET Core</b> • <b>C#</b> • <b>SQL Server</b> • <b>EF Core</b></sub>
 </p>
 
 ---
 
-### 📊 My Skill Levels
+### 📊 Backend Skill Levels
 
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%23%20%2F%20.NET%20Core&value=85&design=candy&fill=239120">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=ASP.NET%20Core%20MVC%20%2F%20API&value=85&design=candy&fill=512BD4">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL%20Server&value=80&design=candy&fill=CC2927">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Entity%20Framework%20Core&value=80&design=candy&fill=512BD4">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Dapper%20%2F%20ADO.NET&value=75&design=candy&fill=00C4FF">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=OOP%20%26%20Architecture&value=80&design=candy&fill=FF6C37">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%2B%2B&value=70&design=candy&fill=00599C">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Git%20%26%20GitHub&value=85&design=candy&fill=F05032">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=ASP.NET%20Core%20Backend&value=88&design=candy&fill=00C4FF&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%23%20%2F%20.NET%20Core&value=85&design=candy&fill=239120&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SQL%20Server&value=80&design=candy&fill=CC2927&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Entity%20Framework%20Core&value=80&design=candy&fill=512BD4&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Dapper%20%2F%20ADO.NET&value=75&design=candy&fill=0e75b6&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=N-Tier%20Architecture&value=78&design=candy&fill=FF6C37&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=C%2B%2B&value=70&design=candy&fill=00599C&textfill=ffffff">
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Git%20%26%20GitHub&value=85&design=candy&fill=F05032&textfill=ffffff">
+</p>
+
+<p align="center">
+  <sub>Also working with <b>Repository Pattern</b> • <b>Dependency Injection</b> • <b>Result Pattern</b> • <b>FluentValidation</b></sub>
 </p>
 
 ---
@@ -101,13 +95,9 @@
 
 ---
 
-### 🐍 Contribution Graph
-
 <p align="center">
   <img src="https://github.com/Abdulrhman774/Abdulrhman774/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> ℹ️ **Snake setup:** create `.github/workflows/snake.yml` in your `Abdulrhman774/Abdulrhman774` repo using the [Platane/snk](https://github.com/Platane/snk) action so it generates `github-contribution-grid-snake.svg` on a schedule and commits it back to the `output` branch — the image tag above already points to the correct path once that workflow runs.
 
 ---
 
@@ -115,13 +105,13 @@
 
 <p align="center">
   <a href="mailto:abdulrhmanazmy980@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C4FF" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/abdalrhman-azmy-a06a562b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C4FF" alt="LinkedIn">
   </a>
   <a href="https://github.com/Abdulrhman774">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00C4FF" alt="GitHub">
   </a>
 </p>
 
